@@ -1,7 +1,7 @@
 {
   "name": "flexo_website",
   "version": "0.1.0",
-  "homepage": "https://imeshpremjayanth.github.io/Flexo-Website",
+  "homepage": "https://Imesh-Premjayanth.github.io/Flexo-Manager-Website",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
