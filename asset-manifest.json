@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Flexo-Manager-Website/static/css/main.d3afd2c6.css",
-    "main.js": "/Flexo-Manager-Website/static/js/main.edef6a5c.js",
+    "main.js": "/Flexo-Manager-Website/static/js/main.27814c27.js",
     "static/js/453.96b21b57.chunk.js": "/Flexo-Manager-Website/static/js/453.96b21b57.chunk.js",
     "static/media/w14.jpg": "/Flexo-Manager-Website/static/media/w14.aca57549cee8ade9cbc6.jpg",
     "static/media/istockphoto-170958625-612x612.jpg": "/Flexo-Manager-Website/static/media/istockphoto-170958625-612x612.408f08bc39769a8d8116.jpg",
     "index.html": "/Flexo-Manager-Website/index.html",
     "main.d3afd2c6.css.map": "/Flexo-Manager-Website/static/css/main.d3afd2c6.css.map",
-    "main.edef6a5c.js.map": "/Flexo-Manager-Website/static/js/main.edef6a5c.js.map",
+    "main.27814c27.js.map": "/Flexo-Manager-Website/static/js/main.27814c27.js.map",
     "453.96b21b57.chunk.js.map": "/Flexo-Manager-Website/static/js/453.96b21b57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3afd2c6.css",
-    "static/js/main.edef6a5c.js"
+    "static/js/main.27814c27.js"
   ]
 }
