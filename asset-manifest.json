@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Flexo-Manager-Website/static/css/main.6af25cf7.css",
-    "main.js": "/Flexo-Manager-Website/static/js/main.7f71ef76.js",
-    "static/js/453.96b21b57.chunk.js": "/Flexo-Manager-Website/static/js/453.96b21b57.chunk.js",
-    "static/media/v.jpg": "/Flexo-Manager-Website/static/media/v.80641e52c5830bf1bd99.jpg",
-    "static/media/w14.jpg": "/Flexo-Manager-Website/static/media/w14.aca57549cee8ade9cbc6.jpg",
-    "index.html": "/Flexo-Manager-Website/index.html",
-    "main.6af25cf7.css.map": "/Flexo-Manager-Website/static/css/main.6af25cf7.css.map",
-    "main.7f71ef76.js.map": "/Flexo-Manager-Website/static/js/main.7f71ef76.js.map",
-    "453.96b21b57.chunk.js.map": "/Flexo-Manager-Website/static/js/453.96b21b57.chunk.js.map"
+    "main.css": "/Flexo-Website/static/css/main.2f23d42e.css",
+    "main.js": "/Flexo-Website/static/js/main.0a02b647.js",
+    "static/js/453.96b21b57.chunk.js": "/Flexo-Website/static/js/453.96b21b57.chunk.js",
+    "static/media/v.jpg": "/Flexo-Website/static/media/v.80641e52c5830bf1bd99.jpg",
+    "static/media/w14.jpg": "/Flexo-Website/static/media/w14.aca57549cee8ade9cbc6.jpg",
+    "index.html": "/Flexo-Website/index.html",
+    "main.2f23d42e.css.map": "/Flexo-Website/static/css/main.2f23d42e.css.map",
+    "main.0a02b647.js.map": "/Flexo-Website/static/js/main.0a02b647.js.map",
+    "453.96b21b57.chunk.js.map": "/Flexo-Website/static/js/453.96b21b57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6af25cf7.css",
-    "static/js/main.7f71ef76.js"
+    "static/css/main.2f23d42e.css",
+    "static/js/main.0a02b647.js"
   ]
 }
