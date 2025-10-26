@@ -81,6 +81,14 @@ const Documents = () => {
   });
 
   // Documents with their download URLs
+  const tafDocuments = [
+    { 
+      title: "TAF Document - IT21291500",
+      downloadUrl: "/documents2/TAF - IT21291500.pdf"
+    },
+    
+  ];
+  
   const proposalDocuments = [
     { 
       title: "Proposal Document - IT21291500",
@@ -153,7 +161,7 @@ const Documents = () => {
           <p className="section-subtitle">Access all the documentation related to the PulseMind project.</p>
           
           <div className="documents-list">
-            {/* Single Documents */}
+            {/* Single Documents
             {singleDocuments.map((document, index) => (
               <DocumentItem
                 key={index}
@@ -162,7 +170,19 @@ const Documents = () => {
                 downloadUrl={document.downloadUrl}
                 onDownload={handleDownload}
               />
-            ))}
+            ))} */}
+
+            {/* Expandable Proposal Documents */}
+            <ExpandableSection
+              title="Topic Assessment Form"
+              icon="📁"
+              documents={tafDocuments}
+              isExpanded={expandedSections.taf}
+              onToggle={() => toggleSection('taf')}
+              onDownload={handleDownload}
+              onDownloadAll={handleDownloadAll}
+            />
+          
 
             {/* Expandable Proposal Documents */}
             <ExpandableSection
