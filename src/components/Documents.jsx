@@ -480,7 +480,7 @@ const Documents = () => {
   const proposalDocuments = [
     { 
       title: "Proposal Document - IT21291500",
-      downloadUrl: `${process.env.PUBLIC_URL}/documents2/R25-082-IT21291500.pdf`
+      downloadUrl: `${process.env.PUBLIC_URL}/documents2/R25-082-IT21291500 .pdf`
     }
   ];
 
