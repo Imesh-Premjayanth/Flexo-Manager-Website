@@ -26,7 +26,7 @@ const Presentations = () => {
       title: "Final Presentation",
       icon: "🖥️",
       fileName: "final-presentation.pdf",
-      filePath: "/presentations/final-presentation.pdf"
+      filePath: "/documents2/IT21291500 _ Premajayantha W H S I_Final.pdf"
     }
   ];
 
