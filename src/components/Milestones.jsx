@@ -45,7 +45,7 @@ const Milestones = () => {
       date: "October 27th 2025",
       title: "Website Assessment",
       description: "Final evaluation of the website implementation and functionality.",
-      status: "pending",
+      status: "completed",
       position: "right"
     },
 
